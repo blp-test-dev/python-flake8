@@ -1,7 +1,7 @@
 # Indentation error (incorrect indentation)
 def indentation_error():
-x = 5
-return x
+    x = 5
+    return x
 
 # Unused variable
 unused_variable = 42
